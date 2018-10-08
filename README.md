@@ -1,2 +1,3 @@
 # hello-world
-1st Repository
+
+I love to learn and I love to explore.
